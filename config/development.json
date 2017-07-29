@@ -1,8 +1,17 @@
 {
-  "instance": "<instance_name>",
-  "creds": {
-    "user": "<user>",
-    "passwd": "<password>"
+  "instance": "empbprathipati",
+  "devportaldev" : {
+      "creds": {
+          "user": "nowtest",
+          "passwd": "mr0cmfch"
+      },
+      "root_src_dir": "/Users/bharath.prathipati/OneDrive - ServiceNow/devportal-src-dev/"
   },
-  "root_src_dir": "/Users/src/"
+  "empbprathipati": {
+      "creds": {
+        "user": "nowtest",
+        "passwd": "mr0cmfch"
+      },
+      "root_src_dir": "/Users/bharath.prathipati/devportal-src-empbp/"
+  }
 }
